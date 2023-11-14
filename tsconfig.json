@@ -23,6 +23,12 @@
     "strictNullChecks": true,
     "strictPropertyInitialization": true,
     "target": "es5",                                     /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "lib": [
+      "dom",
+      "es5",
+      "scripthost",
+      "es2015.proxy"
+    ]
   },
   "exclude": ["node_modules", "**/__tests__/*"],
   "include": ["src"]
