@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/OctopusDeploy/ocl.ts/compare/v0.1.2...v0.2.0) (2023-11-15)
+
+
+### Features
+
+* Add a wrapper that exposes OCL properties as natural JavaScript object ([#60](https://github.com/OctopusDeploy/ocl.ts/issues/60)) ([511a01f](https://github.com/OctopusDeploy/ocl.ts/commit/511a01f5f425cb05efc667aea90c8670042cb2a9))
+
 ### [0.1.1](https://www.github.com/OctopusDeploy/ocl.ts/compare/v0.1.0...v0.1.1) (2022-02-24)
 
 
