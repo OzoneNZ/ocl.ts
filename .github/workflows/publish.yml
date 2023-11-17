@@ -1,5 +1,6 @@
 name: Release-Please (Build; Publish)
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
