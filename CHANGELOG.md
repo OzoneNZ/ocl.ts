@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/OctopusDeploy/ocl.ts/compare/v0.2.0...v0.2.1) (2023-11-19)
+
+
+### Bug Fixes
+
+* exported wrapper function ([0a9ed7d](https://github.com/OctopusDeploy/ocl.ts/commit/0a9ed7dab2a68de0095d733c2f67e9f446cae0ef))
+
 ## [0.2.0](https://github.com/OctopusDeploy/ocl.ts/compare/v0.1.2...v0.2.0) (2023-11-15)
 
 
