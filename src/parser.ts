@@ -92,7 +92,7 @@ export class Parser {
       default: {
         this.nextToken();
         return this.handleRecoveryNode(
-          'Unexpected token. Expected Arrtibute or Block definition.',
+          'Unexpected token. Expected Attribute or Block definition.',
           this.currentToken,
         );
       }
